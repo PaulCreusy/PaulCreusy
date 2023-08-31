@@ -6,7 +6,7 @@ I am an engineer student at CentraleSupélec specializing myself in physics and 
 
 ## My projects 💻 
 
-I am developing small projects with Python on my free time sometimes serious or sometimes just for fun. I also sometimes release mobile apps on the PlayStore with an other account : @LupaDevStudio
+I am developing small projects with Python on my free time sometimes serious or sometimes just for fun. I also sometimes release mobile apps on the PlayStore with an other account : [@LupaDevStudio](https://github.com/LupaDevStudio)
 
 
 
