@@ -2,13 +2,11 @@
 
 ## About me ✋
 
-I am an engineer student at CentraleSupélec specializing myself in physics and informatics.
+I am an engineer student in Aerospace at CentraleSupélec.
 
 ## My projects 💻 
 
 I am developing small projects with Python on my free time, serious ones or just for fun. I also sometimes release mobile apps on the PlayStore with an other account : [@LupaDevStudio](https://github.com/LupaDevStudio)
-
-
 
 
 <!--
