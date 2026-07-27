@@ -2,12 +2,7 @@
 
 ## About me ✋
 
-I am an engineer student in Aerospace at CentraleSupélec.
-
-## My projects 💻 
-
-I am developing small projects with Python on my free time, serious ones or just for fun. I also sometimes release mobile apps on the PlayStore with an other account : [@LupaDevStudio](https://github.com/LupaDevStudio)
-
+I am a PhD Student in scientific machine learning for turbulence.
 
 <!--
 **PaulCreusy/PaulCreusy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
